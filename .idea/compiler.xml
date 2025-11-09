@@ -10,6 +10,7 @@
         <module name="demo (1)" />
         <module name="demo (4)" />
         <module name="demo (3)" />
+        <module name="demo (6)" />
         <module name="demo (5)" />
         <module name="demo" />
         <module name="demo1" />
@@ -24,6 +25,7 @@
       <module name="demo (3)" options="-parameters" />
       <module name="demo (4)" options="-parameters" />
       <module name="demo (5)" options="-parameters" />
+      <module name="demo (6)" options="-parameters" />
       <module name="demo1" options="-parameters" />
     </option>
   </component>
