@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/demo 3 - Qualifier/pom.xml" />
         <option value="$PROJECT_DIR$/demo 5 - Bean Scope/pom.xml" />
         <option value="$PROJECT_DIR$/08-bean-lifecycle-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/09-java-config-bean/pom.xml" />
       </list>
     </option>
   </component>
