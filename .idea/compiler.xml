@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cruddemo" />
         <module name="demo (2)" />
         <module name="demo (1)" />
         <module name="demo (4)" />
         <module name="demo (3)" />
         <module name="demo (6)" />
         <module name="demo (5)" />
+        <module name="Rest-API" />
         <module name="demo" />
         <module name="demo1" />
       </profile>
@@ -19,6 +21,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Rest-API" options="-parameters" />
+      <module name="cruddemo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />
       <module name="demo (2)" options="-parameters" />

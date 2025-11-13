@@ -1,4 +1,4 @@
-docker run -d --name mysql-container -e MYSQL_ROOT_PASSWORD=password -p 3306:3306 mysql:8.0.44-debian
+docker run -d --name mysql-container -e MYSQL_ROOT_PASSWORD=springstudent -p 3306:3306 mysql:8.0.44-debian
 # https://hub.docker.com/_/mysql
 
 
