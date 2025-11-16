@@ -1,4 +1,4 @@
-package com.bobbyakyong.cruddemo.DAO;
+package com.bobbyakyong.cruddemo.service;
 
 /*
  * Copyright (c) 2025 Bobby Akyong
@@ -8,13 +8,12 @@ package com.bobbyakyong.cruddemo.DAO;
  * Licensed under the MIT License.
  */
 
+
 import com.bobbyakyong.cruddemo.entity.Employee;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-//@Component
-public interface EmployeeDAO {
+public interface EmployeeService {
     List<Employee> findAll();
     Employee findById(int id);
     Employee save(Employee employee);
