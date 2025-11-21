@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/11-SPRING-REST-MYSQL-cruddemo/pom.xml" />
         <option value="$PROJECT_DIR$/12-SPRINGDATAJPA-REST-MYSQL-CRUD/pom.xml" />
         <option value="$PROJECT_DIR$/13-SPRING-BOOT-CRUD-REST-EMPLOYEE-SPRING-DATA-REST/pom.xml" />
+        <option value="$PROJECT_DIR$/14-OPEN-API-SWAGGER-SPRING-DATA-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/15-OPEN-API-SWAGGER-STARTER-SPRING-REST/pom.xml" />
       </list>
     </option>
   </component>

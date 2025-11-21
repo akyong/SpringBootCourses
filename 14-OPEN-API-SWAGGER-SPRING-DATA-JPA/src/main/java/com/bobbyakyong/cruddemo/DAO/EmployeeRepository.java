@@ -2,7 +2,6 @@ package com.bobbyakyong.cruddemo.DAO;
 
 import com.bobbyakyong.cruddemo.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
 /*
  * Copyright (c) 2025 Bobby Akyong
@@ -11,6 +10,5 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
  * This file is part of udemy.
  * Licensed under the MIT License.
  */
-//@RepositoryRestResource(path = "members")
 public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
 }

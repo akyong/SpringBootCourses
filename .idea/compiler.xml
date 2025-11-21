@@ -13,7 +13,9 @@
         <module name="demo" />
         <module name="cruddemo (2)" />
         <module name="cruddemo" />
+        <module name="cruddemo (5)" />
         <module name="cruddemo (3)" />
+        <module name="cruddemo (4)" />
         <module name="demo (2)" />
         <module name="demo (1)" />
         <module name="demo (4)" />
@@ -29,6 +31,8 @@
       <module name="cruddemo (1)" options="-parameters" />
       <module name="cruddemo (2)" options="-parameters" />
       <module name="cruddemo (3)" options="-parameters" />
+      <module name="cruddemo (4)" options="-parameters" />
+      <module name="cruddemo (5)" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />
       <module name="demo (2)" options="-parameters" />
