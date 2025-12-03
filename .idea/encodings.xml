@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/00-spring-boot-rest-security-employee-starter-code/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-bean-lifecycle-methods/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-java-config-bean/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10-1-cruddemo/src/main/java" charset="UTF-8" />
@@ -10,11 +11,13 @@
     <file url="file://$PROJECT_DIR$/13-SPRING-BOOT-CRUD-REST-EMPLOYEE-SPRING-DATA-REST/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/14-OPEN-API-SWAGGER-SPRING-DATA-JPA/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/15-OPEN-API-SWAGGER-STARTER-SPRING-REST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16-SPRING-SECURITY-REST/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Rest-API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo 3 - Qualifier/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo 4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo 5 - Bean Scope/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thymeleaf/src/main/java" charset="UTF-8" />
   </component>
 </project>
